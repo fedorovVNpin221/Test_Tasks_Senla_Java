@@ -1,0 +1,38 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "SlipknotGame",
+            "request": "launch",
+            "mainClass": "task1.SlipknotGame",
+            "projectName": "java_test_tasks_senla_d109504c",
+            "cwd": "C:Users/slavk/Desktop/java_test_tasks_senla/src"
+        },
+        {
+            "type": "java",
+            "name": "CurrencyConverter",
+            "request": "launch",
+            "mainClass": "task2.CurrencyConverter",
+            "projectName": "java_test_tasks_senla_d109504c",
+            "cwd": "C:Users/slavk/Desktop/java_test_tasks_senla/src"
+        },
+        {
+            "type": "java",
+            "name": "PasswordGenerator",
+            "request": "launch",
+            "mainClass": "task3.PasswordGenerator",
+            "projectName": "java_test_tasks_senla_d109504c",
+            "cwd": "C:Users/slavk/Desktop/java_test_tasks_senla/src"
+        }
+    ]
+}
